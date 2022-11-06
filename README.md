@@ -2,7 +2,7 @@
 
 ## Description
 
-I created this study guide in order to keep my class notes in one useful place so that I can refer back to them as I progress through the web developer bootcamp. Through the process of creating this applicatio, I learned many useful tools such as how to combine HTML CSS and JavaScript to create an interactive website  
+I created this study guide in order to keep my class notes in one useful place so that I can refer back to them as I progress through the web developer bootcamp. Through the process of creating this application, I learned many useful tools such as how to combine HTML CSS and JavaScript to create an interactive website  
 
 ## Installation
 
@@ -20,19 +20,3 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo
-
-## Badges
-
-N/A
-
-## Features
-
-N/A
-
-## How to Contribute
-
-N/A
-
-## Tests
-
-N/A
